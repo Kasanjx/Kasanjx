@@ -1,6 +1,6 @@
 ### Hi, I am Anjana Mahanta!
-A keen learner, trying to learn new things everyday while pursuing a UG degree in Computer Science and Information Technology.  
-* 🌱 I’m currently learning JAVA, Back-end, ML 
+A keen learner, trying to learn new things every day while pursuing a UG degree in Computer Science and Information Technology.  
+* 🌱 I’m currently learning JAVA, Back-end, Front-end, ML 
 * 💬 Ask me about Python, CSS and Fun!
 * 📫 How to reach me: anjanamahanta19@gmail.com
 * 😄 Pronouns: she/her
